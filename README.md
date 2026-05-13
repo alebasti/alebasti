@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, soy Alejandro Espinoza</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  Estudiante de Informática en <strong>Instituto Duoc UC</strong> · Área de datos y BI
+  Estudiante de Informática en <strong>Instituto Duoc UC</strong> · Datos & Business Intelligence
 </p>
 
 ---
@@ -10,9 +10,10 @@
 
 - 🎓 Estudiante de Ingeniería Informática en Instituto Duoc UC
 - 📊 Orientado al área de **Business Intelligence y análisis de datos**
-- 🛠 Trabajo con SQL, Python y herramientas de visualización como Power BI y Looker Studio
-- 🌱 Actualmente aprendiendo más sobre pipelines de datos y Google Cloud Platform
-- 🔍 Buscando mi primera experiencia laboral en datos
+- 🛠 Desarrollo consultas SQL en BigQuery, análisis exploratorio con Python y dashboards en Power BI y Looker Studio
+- 📈 Enfocado en construir KPIs, reportería accionable y visualizaciones claras para apoyar la toma de decisiones
+- 🌱 Aprendiendo modelado de datos, automatización de reportes y pipelines en Google Cloud Platform
+- 🔍 Buscando mi primera experiencia como **Data Analyst** o **BI Analyst**
 
 ---
 
@@ -30,6 +31,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
 </span>
 
 <h4>Bases de datos & Cloud</h4>
