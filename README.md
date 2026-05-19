@@ -10,10 +10,10 @@
 
 - 🎓 Estudiante de Ingeniería Informática en Instituto Duoc UC
 - 📊 Orientado al área de **Business Intelligence y análisis de datos**
-- 🛠 Desarrollo consultas SQL en BigQuery, análisis exploratorio con Python y dashboards en Power BI y Looker Studio
-- 📈 Enfocado en construir KPIs, reportería accionable y visualizaciones claras para apoyar la toma de decisiones
-- 🌱 Aprendiendo modelado de datos, automatización de reportes y pipelines en Google Cloud Platform
-- 🔍 Buscando mi primera experiencia como **Data Analyst** o **BI Analyst**
+- 🛠 Construyo pipelines SQL en BigQuery, analizo datos con Python y desarrollo dashboards en Power BI y Looker Studio
+- 🚀 Proyectos reales: e-commerce con analytics, app de finanzas con IA y plataforma BI multi-canal integrando APIs de Shopify, MercadoLibre y Falabella
+- 💼 Experiencia como Analista de Inteligencia de Negocios en **CCB Solutions SPA** (julio 2024 – actualidad)
+- 🔍 Buscando mi primera posición formal como **Data Analyst**
 
 ---
 
@@ -23,13 +23,14 @@
 <span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </span>
 
 <h4>BI & Visualización</h4>
 <span>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
 </span>
@@ -41,10 +42,11 @@
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 </span>
 
-<h4>Tecnologías</h4>
+<h4>Frameworks & APIs</h4>
 <span>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 </span>
 
 <h4>Herramientas de trabajo</h4>
@@ -56,7 +58,17 @@
 
 ---
 
-### 🔗 Contacto
+### � Proyectos destacados
+
+| Proyecto | Stack | Año |
+|---|---|---|
+| **Plataforma BI Multi-canal** — APIs de Shopify, MercadoLibre y Falabella para centralizar reportes de ventas | FastAPI · BigQuery · GCP · Metabase · Next.js · PostgreSQL | 2025 |
+| **App Finanzas Personales** — Flujo de caja, proyecciones y gestión de gastos vía WhatsApp con IA | Python · Django · Gemini API · Twilio · PostgreSQL | 2025 |
+| **E-commerce Cosmética Coreana** — Tienda online con analytics, campañas y análisis de competencia | PrestaShop · Power BI · Meta Ads · Google Ads · Python | 2024 |
+
+---
+
+### �🔗 Contacto
 
 <a href="https://www.linkedin.com/in/alebasti1997/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
