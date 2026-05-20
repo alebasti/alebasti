@@ -9,11 +9,11 @@
 ### 👤 Sobre mí
 
 - 🎓 Estudiante de Ingeniería Informática en Instituto Duoc UC
-- 📊 Orientado al área de **Business Intelligence y análisis de datos**
+- 📊 Experiencia en análisis de datos y optimización de procesos en entorno empresarial
 - 🛠 Construyo pipelines SQL en BigQuery, analizo datos con Python y desarrollo dashboards en Power BI y Looker Studio
 - 🚀 Proyectos reales: e-commerce con analytics, app de finanzas con IA y plataforma BI multi-canal integrando APIs de Shopify, MercadoLibre y Falabella
-- 💼 Experiencia como Analista de Inteligencia de Negocios en **CCB Solutions SPA** (julio 2024 – actualidad)
-- 🔍 Buscando mi primera posición formal como **Data Analyst**
+- 💼 Analista de Inteligencia de Negocios en **CCB Solutions SPA** (julio 2024 – actualidad)
+- 🎯 Me motiva desarrollar mi carrera como **Data Analyst o Data Engineer**, seguir profundizando en herramientas como BigQuery, Python y Power BI, y contribuir a la toma de decisiones estratégicas basadas en datos
 
 ---
 
@@ -62,9 +62,9 @@
 
 | Proyecto | Stack | Año |
 |---|---|---|
+| **App Finanzas Personales** — Flujo de caja, proyecciones y gestión de gastos vía WhatsApp con IA | Python · Django · Gemini API · Twilio · PostgreSQL | 2026 |
 | **Plataforma BI Multi-canal** — APIs de Shopify, MercadoLibre y Falabella para centralizar reportes de ventas | FastAPI · BigQuery · GCP · Metabase · Next.js · PostgreSQL | 2025 |
-| **App Finanzas Personales** — Flujo de caja, proyecciones y gestión de gastos vía WhatsApp con IA | Python · Django · Gemini API · Twilio · PostgreSQL | 2025 |
-| **E-commerce Cosmética Coreana** — Tienda online con analytics, campañas y análisis de competencia | PrestaShop · Power BI · Meta Ads · Google Ads · Python | 2024 |
+| **E-commerce Cosmética Coreana** — Tienda online con analytics, campañas y análisis de competencia | PrestaShop · Power BI · Meta Ads · Google Ads · Python | 2020 |
 
 ---
 
