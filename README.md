@@ -64,7 +64,7 @@
 |---|---|---|
 | **App Finanzas Personales** — Flujo de caja, proyecciones y gestión de gastos vía WhatsApp con IA | Python · Django · Gemini API · Twilio · PostgreSQL | 2026 |
 | **Plataforma BI Multi-canal** — APIs de Shopify, MercadoLibre y Falabella para centralizar reportes de ventas | FastAPI · BigQuery · GCP · Metabase · Next.js · PostgreSQL | 2025 |
-| **E-commerce Cosmética Coreana** — Tienda online con analytics, campañas y análisis de competencia | PrestaShop · Power BI · Meta Ads · Google Ads · Python | 2020 |
+| **E-commerce Cosmética Coreana** — Tienda online con analytics, campañas y análisis de competencia | PrestaShop · Power BI · Meta Ads · Google Ads · Python | 2021 |
 
 ---
 
